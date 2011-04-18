@@ -1,4 +1,4 @@
-%%% @doc DB interface
+%%% @doc DB interface behaviour.
 %%% @author Uwe Dauernheim <uwe@dauernheim.net>
 -module(gen_db).
 
